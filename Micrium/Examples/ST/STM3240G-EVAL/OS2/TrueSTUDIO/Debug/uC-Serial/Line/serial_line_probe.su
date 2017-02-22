@@ -1,0 +1,4 @@
+serial_line_probe.c:296:15:SerialLine_Close	4	static
+serial_line_probe.c:509:15:SerialLine_WrOctet	16	static
+serial_line_probe.c:353:15:SerialLine_RdOctet	32	static
+serial_line_probe.c:229:16:SerialLine_Open	16	static

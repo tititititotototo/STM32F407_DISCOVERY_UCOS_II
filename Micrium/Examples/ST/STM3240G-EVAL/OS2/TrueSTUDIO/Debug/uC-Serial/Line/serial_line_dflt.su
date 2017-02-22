@@ -1,0 +1,4 @@
+serial_line_dflt.c:108:16:SerialLine_Open	0	static
+serial_line_dflt.c:142:15:SerialLine_Close	0	static
+serial_line_dflt.c:226:15:SerialLine_WrOctet	8	static
+serial_line_dflt.c:179:15:SerialLine_RdOctet	8	static

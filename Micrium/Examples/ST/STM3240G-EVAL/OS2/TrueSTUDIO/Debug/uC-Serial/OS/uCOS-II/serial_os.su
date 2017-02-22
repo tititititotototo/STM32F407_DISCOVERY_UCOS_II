@@ -1,0 +1,6 @@
+serial_os.c:84:7:SerialOS_Init	24	static
+serial_os.c:123:8:SerialOS_SemCreate	24	static
+serial_os.c:171:7:SerialOS_SemDel	24	static
+serial_os.c:231:7:SerialOS_SemWait	16	static
+serial_os.c:281:14:SerialOS_SemTryLock	8	static
+serial_os.c:313:14:SerialOS_SemSignal	8	static

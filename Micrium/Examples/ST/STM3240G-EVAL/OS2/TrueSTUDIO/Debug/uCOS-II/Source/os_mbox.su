@@ -1,0 +1,8 @@
+os_mbox.c:49:8:OSMboxAccept	16	static
+os_mbox.c:90:12:OSMboxCreate	16	static
+os_mbox.c:166:12:OSMboxDel	24	static
+os_mbox.c:288:8:OSMboxPend	32	static
+os_mbox.c:401:8:OSMboxPendAbort	32	static
+os_mbox.c:481:8:OSMboxPost	24	static
+os_mbox.c:553:8:OSMboxPostOpt	32	static
+os_mbox.c:619:8:OSMboxQuery	24	static

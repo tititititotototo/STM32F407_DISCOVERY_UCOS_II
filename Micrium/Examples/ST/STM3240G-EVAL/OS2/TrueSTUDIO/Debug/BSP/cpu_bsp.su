@@ -1,0 +1,3 @@
+cpu_bsp.c:181:7:CPU_TS_TmrInit	8	static
+cpu_bsp.c:280:13:CPU_TS_TmrRd	0	static
+cpu_bsp.c:349:13:CPU_TS32_to_uSec	16	static

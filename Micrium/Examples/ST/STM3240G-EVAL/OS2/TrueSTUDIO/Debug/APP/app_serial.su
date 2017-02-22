@@ -1,0 +1,4 @@
+app_serial.c:92:14:App_SerialInit	32	static
+app_serial.c:161:7:App_SerPrintf	112	static
+app_serial.c:209:7:App_SerStrRd	24	static
+app_serial.c:239:7:App_SerStrWr	32	static

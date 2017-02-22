@@ -1,0 +1,7 @@
+app_user_14_StatTask.c:84:13:StartTask	48	static
+app_user_14_StatTask.c:146:13:ProtocolTask	72	static
+app_user_14_StatTask.c:232:13:FloatTask	112	static
+app_user_14_StatTask.c:205:13:LedTask	104	static
+app_user_14_StatTask.c:48:5:main	40	static
+app_user_14_StatTask.c:140:6:HAL_UART_RxCpltCallback	8	static
+app_user_14_StatTask.c:262:6:IntHandlerUSART2	8	static

@@ -1,0 +1,13 @@
+os_flag.c:1038:15:OS_FlagBlock	12	static
+os_flag.c:94:11:OSFlagAccept	32	static
+os_flag.c:217:15:OSFlagCreate	16	static
+os_flag.c:420:8:OSFlagNameGet	24	static
+os_flag.c:491:7:OSFlagNameSet	16	static
+os_flag.c:776:11:OSFlagPendGetFlagsRdy	8	static
+os_flag.c:965:11:OSFlagQuery	16	static
+os_flag.c:1089:7:OS_FlagInit	8	static
+os_flag.c:1202:7:OS_FlagUnlink	0	static
+os_flag.c:1156:18:OS_FlagTaskRdy	8	static
+os_flag.c:305:15:OSFlagDel	32	static
+os_flag.c:833:11:OSFlagPost	32	static
+os_flag.c:590:11:OSFlagPend	64	static

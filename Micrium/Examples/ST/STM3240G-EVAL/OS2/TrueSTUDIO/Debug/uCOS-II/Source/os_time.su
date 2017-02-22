@@ -1,0 +1,5 @@
+os_time.c:46:7:OSTimeDly	16	static
+os_time.c:101:8:OSTimeDlyHMSM	8	static
+os_time.c:164:8:OSTimeDlyResume	16	static
+os_time.c:224:9:OSTimeGet	8	static
+os_time.c:253:7:OSTimeSet	8	static

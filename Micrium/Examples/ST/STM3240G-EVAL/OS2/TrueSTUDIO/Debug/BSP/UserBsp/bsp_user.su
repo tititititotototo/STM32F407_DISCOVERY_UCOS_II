@@ -1,0 +1,6 @@
+bsp_user.c:22:6:HAL_UART_MspInit	48	static
+bsp_user.c:52:6:UartInit	8	static
+bsp_user.c:68:6:UartSendChar	16	static
+bsp_user.c:73:6:UartSendString	16	static
+bsp_user.c:83:6:UserPrint	144	static
+bsp_user.c:97:6:UserPrintXY	148	static

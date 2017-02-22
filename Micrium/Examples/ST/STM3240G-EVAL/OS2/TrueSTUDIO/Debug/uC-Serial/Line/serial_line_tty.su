@@ -1,0 +1,6 @@
+serial_line_tty.c:302:15:SerialLine_Close	4	static
+serial_line_tty.c:418:15:SerialLine_WrOctet	16	static
+serial_line_tty.c:350:15:SerialLine_RdOctet	24	static
+serial_line_tty.c:244:16:SerialLine_Open	16	static
+serial_line_tty.c:150:7:SerialLine_TTY_EchoRx	16	static
+serial_line_tty.c:191:7:SerialLine_TTY_EchoTx	16	static

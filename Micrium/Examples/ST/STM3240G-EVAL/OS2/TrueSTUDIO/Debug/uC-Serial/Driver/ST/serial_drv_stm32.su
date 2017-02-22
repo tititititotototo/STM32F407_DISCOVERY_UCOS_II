@@ -1,0 +1,10 @@
+serial_drv_stm32.c:200:15:SerialDrv_Init	0	static
+serial_drv_stm32.c:233:15:SerialDrv_Open	24	static
+serial_drv_stm32.c:404:15:SerialDrv_Close	8	static
+serial_drv_stm32.c:448:15:SerialDrv_RxStart	0	static
+serial_drv_stm32.c:486:15:SerialDrv_RxStop	0	static
+serial_drv_stm32.c:525:15:SerialDrv_RxOctet	0	static
+serial_drv_stm32.c:567:15:SerialDrv_TxStart	0	static
+serial_drv_stm32.c:605:15:SerialDrv_TxStop	0	static
+serial_drv_stm32.c:645:15:SerialDrv_TxOctet	0	static
+serial_drv_stm32.c:692:15:SerialDrv_ISR_Handler	24	static

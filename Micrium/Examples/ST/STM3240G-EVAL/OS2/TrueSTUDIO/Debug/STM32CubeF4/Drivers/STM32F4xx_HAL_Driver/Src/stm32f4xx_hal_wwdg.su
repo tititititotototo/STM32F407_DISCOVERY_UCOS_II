@@ -1,0 +1,10 @@
+stm32f4xx_hal_wwdg.c:235:13:HAL_WWDG_MspInit	0	static
+stm32f4xx_hal_wwdg.c:150:19:HAL_WWDG_Init	8	static
+stm32f4xx_hal_wwdg.c:248:13:HAL_WWDG_MspDeInit	0	static
+stm32f4xx_hal_wwdg.c:193:19:HAL_WWDG_DeInit	8	static
+stm32f4xx_hal_wwdg.c:282:19:HAL_WWDG_Start	0	static
+stm32f4xx_hal_wwdg.c:309:19:HAL_WWDG_Start_IT	0	static
+stm32f4xx_hal_wwdg.c:334:19:HAL_WWDG_Refresh	4	static
+stm32f4xx_hal_wwdg.c:400:13:HAL_WWDG_WakeupCallback	0	static
+stm32f4xx_hal_wwdg.c:371:6:HAL_WWDG_IRQHandler	8	static
+stm32f4xx_hal_wwdg.c:432:23:HAL_WWDG_GetState	0	static

@@ -1,0 +1,7 @@
+os_mem.c:61:10:OSMemCreate	24	static
+os_mem.c:157:8:OSMemGet	16	static
+os_mem.c:216:8:OSMemNameGet	24	static
+os_mem.c:281:7:OSMemNameSet	16	static
+os_mem.c:338:8:OSMemPut	16	static
+os_mem.c:386:8:OSMemQuery	16	static
+os_mem.c:430:7:OS_MemInit	8	static

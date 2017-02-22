@@ -1,0 +1,10 @@
+serial_buf.c:59:7:SerialBuf_Init	0	static
+serial_buf.c:89:7:SerialBuf_Clr	0	static
+serial_buf.c:117:13:SerialBuf_Rd	32	static
+serial_buf.c:201:14:SerialBuf_RdOctet	16	static
+serial_buf.c:254:14:SerialBuf_WrOctet	16	static
+serial_buf.c:307:14:SerialBuf_Cmp	16	static
+serial_buf.c:361:14:SerialBuf_IsEmpty	0	static
+serial_buf.c:389:14:SerialBuf_IsFull	0	static
+serial_buf.c:416:13:SerialBuf_Size	0	static
+serial_buf.c:443:13:SerialBuf_DataLen	0	static

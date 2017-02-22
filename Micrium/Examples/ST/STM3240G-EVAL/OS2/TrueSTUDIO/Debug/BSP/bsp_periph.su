@@ -1,0 +1,3 @@
+bsp_periph.c:121:13:BSP_PeriphClkFreqGet	8	static
+bsp_periph.c:226:7:BSP_PeriphEn	0	static
+bsp_periph.c:325:7:BSP_PeriphDis	0	static

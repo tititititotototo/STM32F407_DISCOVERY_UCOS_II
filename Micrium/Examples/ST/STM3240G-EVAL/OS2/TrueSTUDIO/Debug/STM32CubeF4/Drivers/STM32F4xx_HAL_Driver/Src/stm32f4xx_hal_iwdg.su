@@ -1,0 +1,5 @@
+stm32f4xx_hal_iwdg.c:212:13:HAL_IWDG_MspInit	0	static
+stm32f4xx_hal_iwdg.c:168:19:HAL_IWDG_Init	8	static
+stm32f4xx_hal_iwdg.c:244:19:HAL_IWDG_Start	0	static
+stm32f4xx_hal_iwdg.c:274:19:HAL_IWDG_Refresh	16	static
+stm32f4xx_hal_iwdg.c:339:23:HAL_IWDG_GetState	0	static

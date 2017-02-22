@@ -1,0 +1,13 @@
+os_tmr.c:790:15:OSTmr_Free	0	static
+os_tmr.c:955:15:OSTmr_Link	8	static
+os_tmr.c:1005:15:OSTmr_Unlink	8	static
+os_tmr.c:1051:15:OSTmr_Task	40	static
+os_tmr.c:112:10:OSTmrCreate	32	static
+os_tmr.c:211:10:OSTmrDel	24	static
+os_tmr.c:289:8:OSTmrNameGet	24	static
+os_tmr.c:369:9:OSTmrRemainGet	16	static
+os_tmr.c:470:8:OSTmrStateGet	16	static
+os_tmr.c:539:10:OSTmrStart	24	static
+os_tmr.c:631:10:OSTmrStop	32	static
+os_tmr.c:734:8:OSTmrSignal	8	static
+os_tmr.c:826:7:OSTmr_Init	48	static

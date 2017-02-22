@@ -1,0 +1,8 @@
+app_hooks.c:115:7:App_TaskCreateHook	0	static
+app_hooks.c:134:7:App_TaskDelHook	0	static
+app_hooks.c:153:7:App_TaskIdleHook	0	static
+app_hooks.c:169:7:App_TaskStatHook	0	static
+app_hooks.c:188:7:App_TaskReturnHook	0	static
+app_hooks.c:212:7:App_TaskSwHook	0	static
+app_hooks.c:234:7:App_TCBInitHook	0	static
+app_hooks.c:253:7:App_TimeTickHook	8	static

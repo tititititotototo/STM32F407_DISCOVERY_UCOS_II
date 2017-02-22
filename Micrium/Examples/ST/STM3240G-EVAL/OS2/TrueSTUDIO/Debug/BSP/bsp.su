@@ -1,0 +1,7 @@
+bsp.c:163:7:BSP_Init	112	static
+bsp.c:235:13:BSP_CPU_ClkFreq	8	static
+bsp.c:291:6:BSP_Tick_Init	8	static
+bsp.c:264:19:HAL_InitTick	8	static
+bsp.c:442:7:BSP_LED_On	8	static
+bsp.c:531:7:BSP_LED_Off	8	static
+bsp.c:621:7:BSP_LED_Toggle	8	static
